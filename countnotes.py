@@ -1,4 +1,4 @@
-#taking total amount as input from user
+#taking total amount as input from user  
 amount=int(input("enter your amount"))
 note1=amount//100
 note2=(amount%100)//50
